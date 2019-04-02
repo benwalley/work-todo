@@ -1,0 +1,22 @@
+{
+  "name": "work-todo",
+  "version": "1.0.0",
+  "description": "Todo list for work",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwalley/work-todo.git"
+  },
+  "author": "Ben Walley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benwalley/work-todo/issues"
+  },
+  "homepage": "https://github.com/benwalley/work-todo#readme",
+  "devDependencies": {
+    "electron": "^4.1.3"
+  }
+}
